@@ -1,25 +1,27 @@
 # Code Review Guidelines
 
-## Form
+Code Review is the time to catch issues and provide intervention for students who don't understand the concepts from the week. The length of Code Review will vary from student to student, and may take between 20-90 minutes.
 
-First look at the overall form of the code. Verify that:
+## Check
 
-1. All projects are pushed to Github with detailed commit messages
-2. Classes, properties, and methods follow proper naming conventions and style.
-3. Code is readable, organized in a useful way.
-4. Code is written by the student, not copied and pasted from solution branches.
+1. All projects are pushed to Github with detailed commit messages.
+2. Each project is complete and functioning.
+3. There are no exceptions or warnings.
+4. Classes, properties, and methods follow proper naming conventions and style.
+5. Code is written by the student, not copied and pasted from solution branches.
 
-## Function
+## Review
 
-Make sure the app works using the prescribed frameworks. Verify that:
+Talk through each objective from the week's lessons.
 
-1. Code meets functionality expectations.
-2. There are no exceptions or warnings.
-3. Code follows best practices taught in class.
+1. Have the student rate themselves (1-5 rating) on each objective.
+2. If the student rates themselves 3 or lower, work with them on the objective.
+3. If needed, reteach and provide resources or practice on poor objectives.
+4. Report the scores for each objective using the Objective Reporting Spreadsheet
 
-## Advanced
+## Set Goals
 
-1. Set goals for the student to work on outside of class.
+1. Set goals for the student to work on outside of class. Goals should focus on student deficiencies first, then black diamond or advanced work.
 2. If working on team or capstone project, review architecture and design.
 
 ## Update Dashboard Score
