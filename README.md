@@ -1,4 +1,4 @@
-# Code Review Guidelines
+# Code Review Checklist
 
 Code Review is the time to catch issues and provide intervention for students who don't understand the concepts from the week. The length of Code Review will vary from student to student, and may take between 20-90 minutes. Follow this outline for a successful code review.
 
