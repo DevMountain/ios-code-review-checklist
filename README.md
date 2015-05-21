@@ -6,13 +6,13 @@ Code Review is the time to catch issues and provide intervention for students wh
 
 1. Work with the student to determine a rating (1-3) on each objective from the week. Find examples of each objective in the projects as evidence of understanding.
 
-```
-Rating Scale:
-
-1. Does not understand
-2. Understands with assistance
-3. Understands independently
-```
+  ```
+  Rating Scale:
+  
+  1. Does not understand
+  2. Understands with assistance
+  3. Understands independently
+  ```
 
 2. If the student rates themselves 2 or lower, work with him or her on the objective. Provide extra practice so they can get to a 3. As needed, reteach and provide resources or practice on poor objectives.
 
