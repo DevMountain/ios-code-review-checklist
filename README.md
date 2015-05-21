@@ -1,8 +1,26 @@
 # Code Review Guidelines
 
-Code Review is the time to catch issues and provide intervention for students who don't understand the concepts from the week. The length of Code Review will vary from student to student, and may take between 20-90 minutes.
+Code Review is the time to catch issues and provide intervention for students who don't understand the concepts from the week. The length of Code Review will vary from student to student, and may take between 20-90 minutes. Follow this outline for a successful code review.
 
-## Check
+## Review Objectives
+
+1. Work with the student to determine a rating (1-3) on each objective from the week. Find examples of each objective in the projects as evidence of understanding.
+
+```
+Rating Scale:
+
+1. Does not understand
+2. Understands with assistance
+3. Understands independently
+```
+
+2. If the student rates themselves 2 or lower, work with him or her on the objective. Provide extra practice so they can get to a 3. As needed, reteach and provide resources or practice on poor objectives.
+
+3. Report the scores for each objective using the iOS Student Success Tracker.
+
+## Check Projects
+
+Review the following points with the student:
 
 1. All projects are pushed to Github with detailed commit messages.
 2. Each project is complete and functioning.
@@ -10,23 +28,14 @@ Code Review is the time to catch issues and provide intervention for students wh
 4. Classes, properties, and methods follow proper naming conventions and style.
 5. Code is written by the student, not copied and pasted from solution branches.
 
-## Review
-
-Talk through each objective from the week's lessons.
-
-1. Have the student rate themselves (1-5 rating) on each objective.
-2. If the student rates themselves 3 or lower, work with them on the objective.
-3. If needed, reteach and provide resources or practice on poor objectives.
-4. Report the scores for each objective using the Objective Reporting Spreadsheet
-
 ## Set Goals
 
-1. Set goals for the student to work on outside of class. Goals should focus on student deficiencies first, then black diamond or advanced work.
-2. If working on team or capstone project, review architecture and design.
+1. Set goals for the student. Focus on student deficiencies first, then black diamond or advanced work.
+2. If working on team or capstone projects, review architecture, design, and progress on the project.
 
 ## Update Dashboard Score
 
-Update scores in your mentor dashboard. Please consider the following in your scores:
+Update scores in the Dashboard. Please consider the following in your scores:
 
 1. Attendance in class
 2. Communication with you
