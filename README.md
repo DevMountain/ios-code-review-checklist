@@ -10,7 +10,7 @@ Code Review is the time to catch issues and provide intervention for students wh
   Rating Scale:
   
   1 - Does not understand
-  2 - Understands with assistance
+  2 - Understands with assistance (mentor, documentation, sample code)
   3 - Understands independently
   ```
 
