@@ -1,10 +1,10 @@
 # Code Review Checklist
 
-Code Review is the time to catch issues and provide intervention for students who don't understand the concepts from the week. The length of Code Review will vary from student to student, and may take between 20-90 minutes. Follow this outline for a successful code review.
+Code Review is the time to catch issues and provide intervention for students who don't understand the concepts from the week. The length of Code Review will vary from student to student, and may take between 20-90 minutes.  Follow this outline for a successful code review.
 
 ## Review Objectives
 
-1. Work with the student to determine a rating (1-3) on each objective from the week. Find examples of each objective in the projects as evidence of understanding.
+1. Work with the student to determine a rating (1-3) on each objective from the week. Ask specific questions for each objective to determine understanding. Ask to see examples of each objective in the projects as evidence of understanding. 
 
   ```
   Rating Scale:
@@ -14,9 +14,9 @@ Code Review is the time to catch issues and provide intervention for students wh
   3 - Understands independently
   ```
 
-2. If the student rates themselves 2 or lower, work with him or her on the objective. Provide extra practice so they can get to a 3. As needed, reteach and provide resources or practice on poor objectives.
+2. If the student is rated at 2 or lower, work with him or her on the objective. Provide extra practice so they can get to a 3 in future code reviews. As needed, reteach and provide resources or practice on poor objectives.
 
-3. Report the scores for each objective using the iOS Student Success Tracker.
+3. Report the scores for each objective using the iOS Student Success Tracker. If you do not have access, contact your Lead Instructor.
 
 ## Check Projects
 
@@ -32,6 +32,7 @@ Review the following points with the student:
 
 1. Set goals for the student. Focus on student deficiencies first, then black diamond or advanced work.
 2. If working on team or capstone projects, review architecture, design, and progress on the project.
+3. Give them specific work to do before the next Code Review.
 
 ## Update Dashboard Score
 
@@ -43,3 +44,7 @@ Update scores in the Dashboard. Please consider the following in your scores:
 4. Ability working with frameworks taught this week
 
 Include any feedback or notes that will guide intervention (help) for the student.
+
+## Address Any Needs
+
+If there are any specific needs or concerns with the student, contact your lead instructor.
