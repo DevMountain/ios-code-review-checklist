@@ -1,6 +1,6 @@
 # Code Review Checklist
 
-Code Review is the time to catch issues and provide intervention for students who don't understand the concepts from the week. The length of Code Review will vary from student to student, and may take between 20-90 minutes. With sufficiently advanced students, push them like they would be pushed in a Technical Interview. Follow this outline for a successful code review.
+Code Review is the time to catch issues and provide intervention for students who don't understand the concepts from the week. The length of Code Review will vary from student to student, and may take between 45-120 minutes. With sufficiently advanced students, push them like they would be pushed in a Technical Interview. Follow this outline for a successful code review.
 
 ## Review Objectives
 
@@ -14,7 +14,7 @@ Code Review is the time to catch issues and provide intervention for students wh
   3 - Understands independently
   ```
 
-2. If the student is rated at 2 or lower, work with him or her on the objective. Provide extra practice so they can get to a 3 in future code reviews. As needed, reteach and provide resources or practice on poor objectives.
+2. If the student is rated at 2 or lower, work with him or her on the objective. Paid program through a stretch problem, mini project, or class project. Provide extra practice so they can get to a 3 in future code reviews. As needed, reteach and provide resources or practice on poor objectives.
 
 3. Report the scores for each objective using the iOS Student Success Tracker. If you do not have access, contact your Lead Instructor.
 
@@ -34,9 +34,9 @@ Review the following points with the student:
 2. If working on team or capstone projects, review architecture, design, and progress on the project.
 3. Give them specific work to do before the next Code Review.
 
-## Update Dashboard Score
+## Update Student Success Tracker
 
-Update scores in the Dashboard. Please consider the following in your scores:
+Update scores in the Tracker. Please consider the following in your scores:
 
 1. Attendance in class
 2. Communication with you
