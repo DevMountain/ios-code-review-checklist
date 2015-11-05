@@ -28,6 +28,16 @@ Review the following points with the student:
 4. Classes, properties, and methods follow proper naming conventions and style.
 5. Code is written by the student, not copied and pasted from solution branches.
 
+## Check Capstone Progress
+
+Discuss the Capstone Progress. In early weeks of class, discuss ideas, frameworks, and user tests to help the student firmly decide on a project. Once projects have begun, do the following:
+
+1. Review the App Canvas
+2. Discuss progress and update the tracker
+3. Identify the biggest challenges blocking progress
+4. Pair program on the big challenge
+5. Give a specific challenge to the student to keep making progress
+
 ## Set Goals
 
 1. Set goals for the student. Focus on student deficiencies first, then black diamond or advanced work.
